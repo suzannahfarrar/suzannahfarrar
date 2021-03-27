@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @suzannahfarrar
+- 👋 Hi, I’m Suzannah
 - 👀 I’m interested in Python, C# and PHP
 - 🌱 I’m currently learning NodeJS and ML algorithms
 - 💞️ I’m looking to collaborate on anything honestly!
